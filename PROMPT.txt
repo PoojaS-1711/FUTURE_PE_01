@@ -1,0 +1,71 @@
+FUTURE_PE_01 AI WEBSITE PROMPT:
+
+BUSINESS DETAILS:
+- Business Name: [INSERT]
+- Business Type: [INSERT — e.g. café, salon, clinic, agency, coaching center]
+- Location: [INSERT CITY/AREA]
+- Key Services: [INSERT 2-4 SERVICES]
+- What Makes You Different (USP): [INSERT — what no other business in your area does]
+- Target Customer: [INSERT — be specific, not "anyone"]
+- Tone: [INSERT — friendly / professional / confident-simple]
+- Trust Signal: [INSERT — e.g. "10 years in business", "500+ clients served", "award-winning"]
+ 
+==========================================================
+
+You are an expert website copywriter specializing in local businesses.
+ 
+Using the business details above, generate complete website copy with four clearly separated sections. The copy must feel specific, human, and publish-ready — not generic or templated.
+ 
+---
+ 
+SECTION 1 — HOME PAGE COPY
+ 
+Write the following in order:
+ 
+1. HEADLINE: One punchy sentence. Lead with the customer's outcome, not the business name.
+2. SUBHEADLINE: One to two sentences expanding on the headline. Clarify what the business does and for whom.
+3. VALUE PROPOSITION: Three to four sentences. Answer why this business, why now, why it's different. Be specific — use the USP provided.
+4. WHO IT'S FOR: Two to three sentences describing the ideal customer. Make them feel seen and understood.
+5. KEY BENEFITS: Three distinct benefits written as short punchy statements. Focus on outcomes, not features.
+6. SHORT INTRO SECTION: A natural 40-60 word paragraph that ties everything together and invites the reader to explore or take action.
+ 
+---
+ 
+SECTION 2 — SERVICE PAGE CONTENT
+ 
+For each service listed, write:
+ 
+1. SERVICE NAME: Clear and specific.
+2. WHAT'S INCLUDED: Three to five bullet points describing exactly what the customer gets.
+3. WHY CHOOSE US FOR THIS: Two to three sentences using the USP and trust signal to make this service feel like the obvious choice.
+ 
+Repeat this block for each service provided.
+ 
+---
+ 
+SECTION 3 — CTA SECTIONS
+ 
+Write three distinct CTA blocks:
+ 
+1. PRIMARY CTA (top of page): A direct booking or contact prompt. One headline, one supporting sentence, one action button label.
+2. TRUST-BUILDING CTA (mid page): Lead with the trust signal. Reassure hesitant customers. One headline, two supporting sentences, one action button label.
+3. URGENCY/LOCAL CTA (bottom of page): Use the location and create mild urgency without being pushy. One headline, one supporting sentence, one action button label.
+ 
+---
+ 
+SECTION 4 — TONE GUIDE APPLIED
+ 
+Confirm which tone was applied and provide:
+- Three words that describe the voice used
+- One sentence the business should NEVER sound like (wrong tone example)
+- One sentence that perfectly represents their brand voice (right tone example)
+ 
+---
+ 
+RULES:
+- Never use filler phrases like "we are passionate about" or "we are committed to excellence"
+- Never start a headline with the business name
+- Every section must feel written for THIS business specifically, not a generic template
+- Use the location naturally — do not force it into every sentence
+- Output sections with clear headers exactly as labeled above
+ 
