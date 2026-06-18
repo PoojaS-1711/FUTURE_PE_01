@@ -120,8 +120,14 @@ It includes:
 
 **Claude by Anthropic** — claude.ai
 
+
 No paid API. No coding. Just a structured prompt run in the Claude chat interface.
 
 ---
 
+## Live Website
+🔗 [noa-mountain-haven.lovable.app](https://noa-mountain-haven.lovable.app/)
+
 *This project was completed as part of the Future Interns AI/ML Virtual Internship Program.*
+
+
