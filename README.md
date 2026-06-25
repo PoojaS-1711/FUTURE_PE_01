@@ -2,8 +2,10 @@
 
 # AI Website Copy Generator — Local Business Prompt Framework
 
-**By:** PoojaS-1711
+**By:** POOJA S
+
 **Internship:** Future Interns — AI/ML Track
+
 **Tool Used:** Claude (Anthropic)
 
 ---
